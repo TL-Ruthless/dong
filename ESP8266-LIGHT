@@ -9,9 +9,9 @@
 
 #include <Blinker.h>
 
-char auth[] = "fd8a639180f8";       //电灯密钥
-char ssid[] = "701";                //家里WIFI名称
-char pswd[] = "zhangyan13929569968";//家里WIFI密码
+char auth[] = "************";       //电灯密钥
+char ssid[] = "************";       //家里WIFI名称
+char pswd[] = "************";       //家里WIFI密码
 
 // 新建组件对象
 BlinkerButton Button1("btn-abc");
